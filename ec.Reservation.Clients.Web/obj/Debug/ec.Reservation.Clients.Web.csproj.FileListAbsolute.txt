@@ -1,0 +1,605 @@
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll.config
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Owin.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\WebGrease.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Helpers.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Mvc.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Optimization.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Razor.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.SqlServer.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Google.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ApplicationInsights.config
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\csc.exe
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\vbc.exe
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll.config
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.pdb
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Owin.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\WebGrease.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.pdb
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.pdb
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Optimization.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Helpers.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Mvc.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Razor.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.SqlServer.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csprojResolveAssemblyReference.cache
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.dll
+C:\Users\ali.krezan\Desktop\copy program\25.10.19\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll.config
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\AutoMapper.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\EntityFramework.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Owin.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\WebGrease.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\AutoMapper.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\EntityFramework.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.Optimization.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.Helpers.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.Mvc.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.Razor.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.SqlServer.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Google.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.presentation.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.presentation.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\zxing.presentation.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\FluentEmail.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\RazorEngine.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\RazorEngine.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\RazorEngine.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Clients.Web\bin\QRCoder.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\FluentEmail.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\QRCoder.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ApplicationInsights.config
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\csc.exe
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\vbc.exe
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll.config
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\FluentEmail.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Owin.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\WebGrease.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Optimization.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Helpers.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Mvc.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Razor.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.SqlServer.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csprojResolveAssemblyReference.cache
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ApplicationInsights.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\csc.exe
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\vbc.exe
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Clients.Web.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\FluentEmail.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Owin.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\WebGrease.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Entities.dll.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\ec.Reservation.Services.dll.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\AutoMapper.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.Web.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.ApplicationInsights.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\RazorEngine.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Net.Http.Formatting.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Http.WebHost.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Optimization.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Helpers.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Mvc.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.Razor.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Deployment.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\System.Web.WebPages.Razor.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Antlr3.Runtime.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\zxing.presentation.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Newtonsoft.Json.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\EntityFramework.SqlServer.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Optimization.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Helpers.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Mvc.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.Razor.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\EntityFramework.SqlServer.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Google.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csprojAssemblyReference.cache
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csproj.CoreCompileInputs.cache
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.csproj.CopyComplete
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Clients.Web\obj\Debug\ec.Reservation.Clients.Web.pdb

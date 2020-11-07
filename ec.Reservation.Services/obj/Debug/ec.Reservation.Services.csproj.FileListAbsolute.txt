@@ -1,0 +1,83 @@
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll.config
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll.config
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\AutoMapper.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\FluentEmail.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\RazorEngine.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\AutoMapper.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\RazorEngine.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\RazorEngine.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\FluentEmail.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.dll
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.pdb
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.xml
+C:\inetpub\wwwroot\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll.config
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\FluentEmail.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.pdb
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csprojResolveAssemblyReference.cache
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.dll
+C:\Users\ali.krezan\Desktop\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Services.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\FluentEmail.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\ec.Reservation.Entities.dll.config
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\AutoMapper.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.pdb
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\RazorEngine.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\bin\Debug\System.Web.Razor.xml
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csprojAssemblyReference.cache
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csproj.CoreCompileInputs.cache
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.csproj.CopyComplete
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.dll
+E:\copy Program Reservation\09.01.20\für IHK\ec.Reservation\ec.Reservation.Services\obj\Debug\ec.Reservation.Services.pdb

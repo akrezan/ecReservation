@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\ec.Reservation.Entities.dll.config
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\ec.Reservation.Entities.pdb
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\EntityFramework.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\EntityFramework.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\de\EntityFramework.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\bin\Release\de\EntityFramework.SqlServer.resources.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.Migrations.Initial.resources
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.Migrations.addmigrationdeletPassUser.resources
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.dll
+C:\inetpub\wwwroot\ecreservation\ec.Reservation.Entities\obj\Release\ec.Reservation.Entities.pdb

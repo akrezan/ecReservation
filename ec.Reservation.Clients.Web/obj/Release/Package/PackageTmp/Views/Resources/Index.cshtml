@@ -1,0 +1,200 @@
+﻿@using System.Configuration;
+
+@model IEnumerable<ec.Reservation.Clients.Web.Models.ResourcesViewModel>
+
+
+@{
+    ViewBag.Title = "Index";
+    var image = TempData["Image"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Resources</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+       
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        
+        
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {id = item.Id}) |
+            @Html.ActionLink("Details", "Details", new {id = item.Id}) |
+            @Html.ActionLink("Delete", "Delete", new {id = item.Id}) |
+            @Html.ActionLink("Calander", "Index", "Home",new {id = item.Id}, htmlAttributes:null) |
+           
+           
+            <a  id="ahrefAfter" class="btn btn-default btn-sm pull-right" href="javascript:getvalue('@item.Id', '@item.Name');" runat="server" title="QRCode">
+                <span class="glyphicon glyphicon-qrcode"></span>QRCode
+            </a>
+            
+        </td>
+    </tr>
+}
+
+</table>
+
+@*<hr />
+@if (image != null)
+{
+    <img src="@image" alt="" style="height:150px;width:150px" />
+}*@
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title"><span id="eventTitle" style="font-size: 22px; font-style: italic; color: brown"></span></h4>
+            </div>
+            <div class="modal-body">
+                @*<a id="btnPrint" href="" class="btn btn-default btn-sm pull-right" onclick="printDiv();">
+                    <span class="glyphicon glyphicon-print"></span> Print
+                </a>*@
+                @*<input type="button" value="Print" class="btn btn-default btn-sm pull-right" onclick="printDiv()">*@
+                
+                <button type="button" class="btn btn-default btn-sm pull-right" onclick="printDiv();">
+                    <span class="glyphicon glyphicon-print"></span> Print
+                </button>
+                @*<a id="qrPrint" href="" class="btn btn-default btn-sm pull-right">
+                    <span class="glyphicon glyphicon-qrcode"></span> QRPrint
+                </a>*@
+                <p id="pDetails"></p>
+                @*@using (Html.BeginForm("Index", "QRCoder", FormMethod.Post))
+                {
+                    <input id="txt" type="text" name="qrcode" value=""/>
+                    <input type="submit" value="Generate"/>
+                }*@
+                @*@if (image != null)
+                {
+                    <img src="@image" alt="" style="height:150px;width:150px" />
+                }*@
+                <hr/>
+                <div id="imgDiv" style="width: 100%; text-align: center;">
+                    <img id="img" src="" alt="" style="height: 200px; width: 200px"  />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.11.4.min.js"></script>
+    <link href="~/Content/themes/base/all.css" rel="stylesheet" />
+
+    <script>
+
+        function getvalue(id, name) {
+            $('#img').attr("src", '');
+            var itemId = id;
+            var itemName = name;
+            var urlLink = '@ConfigurationManager.AppSettings["host"]' + "/Home/Index/" + itemId;
+            $('#myModal #eventTitle').text("Resource Name: " + itemName);
+            var $description = $('<div/>');
+
+            $description.append($('<p/>').html('<b>Url Link:</b>' + '@ConfigurationManager.AppSettings["host"]' + "/Home/Index/" + itemId));
+            $('#txt').attr('value', "localhost/ec.reservation/Home/Index/"+ itemId );
+            //$('#btnDelete').attr('href', "/ec.reservation/Reservations/Delete/" + item );
+            //$('#btnEdit').attr('href', "/ec.reservation/Reservations/Edit/");
+
+            //$('#qrPrint').click(function () {
+                $(document).ready(function() {
+                    var serviceURL = "/ec.reservation/QRCoder/AjaxMethod?qrcode=" +
+                    '@ConfigurationManager.AppSettings["host"]' + "/Home/Index/" +
+                    itemId;
+                $.ajax({
+                    type: "POST",
+                    url: serviceURL,
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (response) {
+                        $('#img').attr("src", response);
+                    },
+                    error: function (response) {
+                        alert(response);
+                    }
+                });
+
+                return false;
+            });
+
+            $('#myModal #pDetails').empty().html($description);
+
+            $('#myModal').modal();
+        };
+
+        function PrintPanel() {
+            var panel = document.getElementById("imgDiv");
+            var printWindow = window.open('', '', 'height=400,width=800');
+            printWindow.document.open();
+
+            printWindow.document.write('<html><body onload="window.print()">' + panel.innerHTML + '</body></html>');
+            //printWindow.document.write('</head><body >');
+            //printWindow.document.write(panel.innerHTML);
+            //printWindow.document.write('</body></html>');
+            printWindow.document.close();
+            setTimeout(function () { newWin.close(); }, 10);
+            //console.log(printWindow);
+            //setTimeout(function () {
+            //    printWindow.print();
+            //}, 500);
+            //return false;
+        };
+
+       function printDiv() {
+
+            var divToPrint = document.getElementById('imgDiv');
+
+            var newWin = window.open('', 'Print-Window', 'height=400,width=800');
+
+            newWin.document.open();
+
+            newWin.document.write('<html><body onload="window.print()">' + divToPrint.innerHTML + '</body></html>');
+
+            newWin.document.close();
+
+            setTimeout(function () { newWin.close(); }, 10);
+
+       }
+
+        function printDiv1() {
+            var divContents = document.getElementById("img");
+            var printWindow = window.open('', '', 'height=500, width=500');
+            printWindow.document.write('<html><head><title>Print Window</title>');
+            printWindow.document.write('</head><body ><img style="height: 200px; width: 200px" src=\'');
+            printWindow.document.write(divContents.src);
+            printWindow.document.write('\' /></body></html>');
+            printWindow.document.close();
+            printWindow.print();
+        }
+
+
+    </script>
+
+}
